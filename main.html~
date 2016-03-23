@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Archimedean Spiral</title>
+    <script src="main.js"></script>
+  </head>
+
+  <body onload="init()">
+    <canvas id="myCanvas" width="640" height="640"></canvas>
+    
+  </body>
+</html>
